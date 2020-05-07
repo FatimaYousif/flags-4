@@ -1,0 +1,46 @@
+*
+{
+    margin:0 auto;
+
+}
+body
+{
+    background-color: #e2e3e5;
+}
+.head
+{
+    color:black;
+    background-color: #eaeef1;
+    text-align: center;
+    margin:1em 0em 1em 0em;
+    padding:1em 0em 1em 0em;
+    text-shadow: 1px 1px red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;   
+}
+.three
+{
+    display: inline-block;
+    margin:1em 1em ;
+}
+figure{
+    padding:1em 1em;
+}
+figure:hover{
+    color:red;
+    cursor: pointer;
+    background-color: #eaeef1;
+}
+figcaption
+{
+    text-align: center;
+}
+.all
+{
+    margin:2em 7em 2em 7em;
+}
+figcaption
+{
+    font-family: 'Satisfy', cursive;
+      font-size: 18px;
+}

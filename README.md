@@ -2,7 +2,7 @@
 
 HERE'S THE FLAGS ASSIGNMENT'S LINK:
 
- Note: A unresponsive web page.
+ Note: An unresponsive web page.
 
 
 https://fatimayousif.github.io/flags-4/
